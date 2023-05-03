@@ -19,7 +19,8 @@ marquee{
 }
 
 footer{
-    height: 7em;
+    position: absolute;
+    height: auto;
     background-color: lightcoral;
     text-align: center;
     padding-left: 28%;
